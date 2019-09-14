@@ -1,0 +1,26 @@
+Circuit: * Pseudo NAND Gate with pulse input
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 2.0002e-012 to 2.01582e-012
+Heightened Def Con from 4.0002e-008 to 4.001e-008
+Heightened Def Con from 8.0002e-008 to 8.001e-008
+Heightened Def Con from 1.20002e-007 to 1.2001e-007
+Heightened Def Con from 1.60002e-007 to 1.6001e-007
+
+Date: Mon Apr 23 03:15:23 2018
+Total elapsed time: 0.310 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5777
+traniter = 5768
+tranpoints = 1873
+accept = 1640
+rejected = 238
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 228 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
